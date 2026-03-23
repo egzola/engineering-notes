@@ -24,9 +24,9 @@ All notes are based on direct observation, testing, or debugging.
 ## Structure
 
 - `umbrel/` → app integration, runtime constraints, deployment behavior
-- `wallets/` → wallet derivation, address generation, edge cases
+- `wallet/` → wallet derivation, address generation, edge cases
 
 ## Notes
 
 - [Umbrel App Submission](./umbrel/umbrel-app-submission.md)
-- [AirGap Derivation Issue](./wallets/airgap-vault-derivation-path-index.md)
+- [AirGap Derivation Issue](./wallet/airgap-vault-derivation-path-index.md)
