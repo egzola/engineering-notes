@@ -24,7 +24,7 @@ All notes are based on direct observation, testing, or debugging.
 ## Structure
 
 - `umbrel/` → app integration, runtime constraints, deployment behavior
-- `bitcoin/` → wallet derivation, address generation, edge cases
+- `wallets/` → wallet derivation, address generation, edge cases
 
 ## Notes
 
