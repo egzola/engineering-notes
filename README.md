@@ -29,4 +29,4 @@ All notes are based on direct observation, testing, or debugging.
 ## Notes
 
 - [Umbrel App Submission](./umbrel/umbrel-app-submission.md)
-- [AirGap Derivation Issue](./bitcoin/airgap-vault-derivation-path-index.md)
+- [AirGap Derivation Issue](./wallets/airgap-vault-derivation-path-index.md)
