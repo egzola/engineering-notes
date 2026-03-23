@@ -28,6 +28,5 @@ All notes are based on direct observation, testing, or debugging.
 
 ## Notes
 
-These are not tutorials.
-
-They are concise records of technical findings and decisions, intended for future reference and deeper understanding.
+- [Umbrel App Submission](./umbrel/umbrel-app-submission.md)
+- [AirGap Derivation Issue](./bitcoin/airgap-vault-derivation-path-index.md)
