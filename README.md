@@ -2,7 +2,7 @@
 
 This repository contains technical notes, investigations, and system-level observations derived from real-world work.
 
-Many of these notes come from building, debugging and shipping practical projects such as:
+Many of these notes come from building, debugging and shipping real-world projects such as:
 
 - **bitBoard** — customizable crypto price dashboard for Umbrel
 - **bitBalance** — private Bitcoin wallet balance tracker for Umbrel
