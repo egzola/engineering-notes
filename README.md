@@ -2,6 +2,11 @@
 
 This repository contains technical notes, investigations, and system-level observations derived from real-world work.
 
+Many of these notes come from building, debugging and shipping practical projects such as:
+
+- **bitBoard** — customizable crypto price dashboard for Umbrel
+- **bitBalance** — private Bitcoin wallet balance tracker for Umbrel
+
 ## Scope
 
 Focus areas include:
@@ -10,6 +15,8 @@ Focus areas include:
 - HD wallet derivation (BIP32 / BIP39 / BIP44)
 - System constraints in managed environments (e.g. Umbrel)
 - Runtime behavior vs expected specification
+- Dockerized deployments and self-hosted services
+- Real-world software packaging and release workflows
 
 ## Approach
 
@@ -25,8 +32,17 @@ All notes are based on direct observation, testing, or debugging.
 
 - `umbrel/` → app integration, runtime constraints, deployment behavior
 - `wallet/` → wallet derivation, address generation, edge cases
+- `docker/` → image builds, multi-arch, packaging notes
+- `systems/` → practical runtime observations and infrastructure behavior
 
 ## Notes
 
 - [Umbrel App Submission](./umbrel/umbrel-app-submission.md)
 - [AirGap Derivation Issue](./wallet/airgap-vault-derivation-path-index.md)
+
+## Philosophy
+
+Theory matters.  
+Observed behavior matters more.
+
+Understanding the path is often more valuable than only seeing the result.
