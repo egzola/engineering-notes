@@ -37,9 +37,10 @@ All notes are based on direct observation, testing, or debugging.
 
 ## Notes
 
-- [Umbrel App Submission](./umbrel/umbrel-app-submission.md)
+- [bitBalance Umbrel Submission](./umbrel/bitbalance-submission.md)
+- [bitBoard Umbrel Submission](./umbrel/bitboard-submission.md)
 - [AirGap Derivation Issue](./wallet/airgap-vault-derivation-path-index.md)
-
+  
 ## Philosophy
 
 Theory matters.  
