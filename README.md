@@ -6,6 +6,7 @@ Many of these notes come from building, debugging and shipping real-world projec
 
 - **bitBoard** — customizable crypto price dashboard for Umbrel
 - **bitBalance** — private Bitcoin wallet balance tracker for Umbrel
+- **Telegrapho** — private self-hosted realtime text bridge between your device 
 
 ## Scope
 
