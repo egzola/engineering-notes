@@ -40,6 +40,7 @@ All notes are based on direct observation, testing, or debugging.
 
 - [bitBalance Umbrel Submission](./umbrel/bitbalance-submission.md)
 - [bitBoard Umbrel Submission](./umbrel/bitboard-submission.md)
+- [Telegrapho Umbrel Submission](./umbrel/telegrapho-submission.md)
 - [AirGap Derivation Issue](./wallet/airgap-vault-derivation-path-index.md)
   
 ## Philosophy
